@@ -1,0 +1,44 @@
+.container-input-location {
+  display: flex;
+  flex-direction: column;
+}
+
+.label-location {
+  margin-top: 33px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 14px;
+  color: #b9bdcf;
+}
+
+.input-location {
+  margin-top: 14px;
+  margin-bottom: 24.5px;
+  padding-left: 45px;
+  height: 48px;
+  width: 379px;
+
+  border: none;
+  border-radius: 4px;
+  background: #ffffff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.input-location::placeholder {
+  font-size: 12px;
+  font-weight: 400;
+  font-family: "Roboto";
+  color: #b9bdcf;
+}
+
+.label {
+  margin-left: 15px;
+
+  color: #334680;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.input-radio {
+  margin-bottom: 18.67px;
+}

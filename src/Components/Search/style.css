@@ -1,0 +1,14 @@
+.container-search {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 42px 206px 41px 205px;
+
+  border-radius: 8px;
+  background: url("../../assets/img/backgroundImg.png") no-repeat center center;
+}
+
+.container-input {
+  display: flex;
+  justify-content: center;
+  position: relative;
+}

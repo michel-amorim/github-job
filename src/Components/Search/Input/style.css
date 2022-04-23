@@ -1,14 +1,19 @@
 .input {
   padding: 19px 546px 22px 42px;
+
   background: #ffffff;
-  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.6);
+
   border-radius: 4px;
   border: none;
 }
 
 .input::placeholder {
   width: 300px;
-  opacity: 60%;
-  font-weight: 400;
+
   font-size: 12px;
+  font-style: normal;
+  font-family: "Roboto";
+
+  color: #cfb9b9;
 }

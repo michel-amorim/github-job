@@ -5,11 +5,6 @@ import "./style.css";
 const InputLocation = () => {
   return (
     <form className="container-input-location">
-      <div>
-        <input type="checkbox" />
-        <label className="label">Full time</label>
-      </div>
-
       <label className="label-location">location</label>
       <input
         className="input-location"

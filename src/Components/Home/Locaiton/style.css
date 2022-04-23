@@ -1,4 +1,5 @@
 .location {
-  max-width: 1300px;
-  margin: 33px auto 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 790px;
+  margin-top: 42px;
 }

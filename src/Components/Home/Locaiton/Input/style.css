@@ -5,9 +5,11 @@
 
 .label-location {
   margin-top: 33px;
+
   text-transform: uppercase;
   font-weight: bold;
   font-size: 14px;
+
   color: #b9bdcf;
 }
 
@@ -15,6 +17,7 @@
   margin-top: 14px;
   margin-bottom: 24.5px;
   padding-left: 45px;
+
   height: 48px;
   width: 379px;
 
@@ -27,7 +30,7 @@
 .input-location::placeholder {
   font-size: 12px;
   font-weight: 400;
-  font-family: "Roboto";
+
   color: #b9bdcf;
 }
 
@@ -35,8 +38,9 @@
   margin-left: 15px;
 
   color: #334680;
-  font-weight: 500;
+
   font-size: 14px;
+  font-family: "Poppins", sans-serif;
 }
 
 .input-radio {

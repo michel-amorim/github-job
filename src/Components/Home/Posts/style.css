@@ -1,0 +1,9 @@
+.content-photos li {
+  margin-bottom: 32px;
+}
+
+.img-photos {
+  width: 100%;
+  max-width: 790px;
+  height: 114px;
+}

@@ -5,7 +5,7 @@ const Input = () => {
   return (
     <>
       <input
-        className="input"
+        className="input material-icons"
         placeholder="Title, companies, expertise or benefits"
         type="text"
       />

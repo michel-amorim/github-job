@@ -1,3 +1,8 @@
+var {
+  --input-color: #b9bdcf;
+  --place-holder-color: #334680;
+}
+
 body {
   max-width: 1200px;
   margin: 0 auto;
